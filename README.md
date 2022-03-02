@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/profile.php?id=100001774538292" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
 ### 🤳🏽 &nbsp;I'm Benson Chang
- * A Backend Engineer who works at DAMAI INTERNET INC.
+ * A Backend Engineer who works at 25sprout.
  * Currently working in Taipei, Taiwan.
  * Currently learning everything about Backend and DevOps technologies
 
